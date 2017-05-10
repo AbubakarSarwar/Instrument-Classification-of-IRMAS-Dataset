@@ -37,5 +37,5 @@ Algorithms tested -
 
 
 Results -  
-![Screenshot](results.png)
+![Screenshot](Results.png)
 
